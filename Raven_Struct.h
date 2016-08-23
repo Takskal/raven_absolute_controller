@@ -30,7 +30,7 @@ typedef Eigen::Quaterniond qtr_t;
 
 #pragma pack(1)
 
-class pos_struct
+class Raven_Struct
 {
 public:
 	vec_t  pos[2];
