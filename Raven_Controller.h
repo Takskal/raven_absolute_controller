@@ -7,14 +7,13 @@
 #include <boost/thread.hpp>
 #include <boost/chrono.hpp>
 #include "RavenState.h"
-#include "PosStruct.h"
+#include "Raven_Struct.h"
 #include "omni_comm.h"
 
 // UDP data types
 #include <HDU/hduQuaternion.h>
 #include <HDU/hduMatrix.h>
 #include <HDU/hduVector.h>
-#include "Vision.h"
 
 
 
@@ -28,11 +27,7 @@
 #define LOOP_FREQUENCY	 125	// in Hz
 
 
-
-
-
 extern Omni_Comm comm;
-
 
 class Raven_Controller
 {
