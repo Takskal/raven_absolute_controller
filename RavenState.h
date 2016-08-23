@@ -12,8 +12,7 @@
 #include <boost/chrono.hpp>
 #include "boost/date_time/gregorian/gregorian.hpp"
 #include "boost/date_time/posix_time/posix_time.hpp"
-#include "file_manager.h"
-#include "PosStruct.h"
+#include "Raven_Struct.h"
 #include <HDU/hduQuaternion.h>
 #include <Eigen/Dense>
 
