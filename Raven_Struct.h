@@ -1,5 +1,5 @@
-#ifndef POS_STRUCT_H
-#define POS_STRUCT_H
+#ifndef RAVEN_STRUCT_H
+#define RAVEN_STRUCT_H
 
 #include <Eigen/Dense>
 #include <Eigen/Geometry>
