@@ -1,4 +1,8 @@
 
+#include RavenState.h
+#include Raven_Controller.h
+#include Raven_Struct.h
+
 // In omni_client
 
 	Raven_Controller ctrl;
