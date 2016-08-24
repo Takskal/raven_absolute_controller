@@ -60,7 +60,6 @@ public:
 	
 	vec_t transform_from_raven_to_itp(const vec_t &position, const int &devID);
 
-	bool is_grasp_reached(const double& grasp1, const double& grasp2);
 	void go_to(const pos_struct& point);
 	
 	
